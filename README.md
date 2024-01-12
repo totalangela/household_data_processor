@@ -18,7 +18,7 @@ mvn clean package
 
 **How to run the program**
 
-cd to the parent of the src directory and run the following command:
+cd to the parent of the src directory (household-data-processing) and run the following command:
 
 mvn exec:java
 
