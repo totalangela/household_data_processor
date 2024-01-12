@@ -1,5 +1,4 @@
 # household_data_processor
-Process household data from console or file system
 Household Data Processor Design and Implementation
 
 Angela Li (UC Berkeley ‘24)
@@ -19,9 +18,16 @@ mvn clean package
 
 **How to run the program**
 
-cd to the <folder which stores the compiled result> and run the following command:
+cd to the parent of the src directory and run the following command:
 
 mvn exec:java
+
+
+**How to see results**
+
+cd to the parent of the src directory and run the following command:
+
+start notepad++ target\household_result.csv
 
 
 **Architecture**
