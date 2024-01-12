@@ -3,6 +3,14 @@ Household Data Processor Design and Implementation
 
 Angela Li (UC Berkeley ‘24)
 
+Input
+
+![input](https://github.com/totalangela/household_data_processor/assets/76748709/febe0a8c-bc86-4819-a013-ec25b03dec0a)
+
+Output
+
+![output](https://github.com/totalangela/household_data_processor/assets/76748709/ddca5d5b-0a84-4824-b327-95732c041f19)
+
 
 **Synopsis**
 
