@@ -14,26 +14,14 @@ My household data processing project takes household person data either from inp
 
 Unzip the source code from the zip file, and then open a command prompt (Windows + R => cmd) and cd to the parent of the src directory and run the following command:
 
-
-for /r src %i in (*.java) do javac -classpath src -d <folder to store the compiled result> %i
-
-mvn exec:java or is it mvn clean package?
+mvn clean package
 
 
 **How to run the program**
 
 cd to the <folder which stores the compiled result> and run the following command:
 
-
-java com.expeditors.codingexercises.HouseholdProcessorMain -inputFile <input file name and path> -outputConsole
-
-mvn jetty:run
-
-
- or
-
-
-java com.expeditors.codingexercises.HouseholdProcessorMain -inputFile <input file name and path> -outputFile <output file name and path>
+mvn exec:java
 
 
 **Architecture**
